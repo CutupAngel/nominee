@@ -1,0 +1,1156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page component renders correctly 1`] = `
+<div>
+  <div
+    class="min-h-screen py-0 px-4 bg-pg-bg"
+  >
+    <main
+      class="font-roboto"
+    >
+      <div
+        class="py-10 mmd:py-20 max-w-7xl mx-auto relative"
+      >
+        <h1
+          class=" text-3xl mmd:text-5xl uppercase font-bold text-center text-white mb-6 mmd:mb-10"
+        >
+          Awards 2021
+        </h1>
+        <div
+          class="mb-7 sm:mb-12"
+        >
+          <h2
+            class="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8"
+          >
+            best-picture
+          </h2>
+          <div
+            class="grid sm:grid-cols-2 mmd:grid-cols-3 gap-6"
+          >
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Nomadland
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Nomadland"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                The Trial of the Chicago 7
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="The Trial of the Chicago 7"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Minari
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Minari"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Mank
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Mank"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                One Night in Miami
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="One Night in Miami"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mb-7 sm:mb-12"
+        >
+          <h2
+            class="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8"
+          >
+            best-director
+          </h2>
+          <div
+            class="grid sm:grid-cols-2 mmd:grid-cols-3 gap-6"
+          >
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Chloé Zhao for Nomadland
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Chloé Zhao for Nomadland"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Aaron Sorkin for The Trial of the Chicago 7
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Aaron Sorkin for The Trial of the Chicago 7"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Lee Isaac Chung for Minari
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Lee Isaac Chung for Minari"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMinari.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                David Fincher for Mank
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="David Fincher for Mank"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmank.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Regina King for One Night in Miami
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Regina King for One Night in Miami"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mb-7 sm:mb-12"
+        >
+          <h2
+            class="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8"
+          >
+            best-actor
+          </h2>
+          <div
+            class="grid sm:grid-cols-2 mmd:grid-cols-3 gap-6"
+          >
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Chadwick Boseman for Ma Rainey's Black Bottom
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Chadwick Boseman for Ma Rainey's Black Bottom"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Anthony Hopkins for The Father
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Anthony Hopkins for The Father"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ffather_ver3.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Delroy Lindo for Da 5 Bloods
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Delroy Lindo for Da 5 Bloods"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Steven Yeun for Minari
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Steven Yeun for Minari"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Riz Ahmed for The Sound of Metal
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Riz Ahmed for The Sound of Metal"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsound_of_metal_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mb-7 sm:mb-12"
+        >
+          <h2
+            class="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8"
+          >
+            best-actress
+          </h2>
+          <div
+            class="grid sm:grid-cols-2 mmd:grid-cols-3 gap-6"
+          >
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Vanessa Kirby for Pieces of a Woman
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Vanessa Kirby for Pieces of a Woman"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpieces_of_a_woman.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Frances McDormand for Nomadland
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Frances McDormand for Nomadland"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fnomadland_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Carey Mulligan for Promising Young Woman
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Carey Mulligan for Promising Young Woman"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fpromising_young_woman_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Viola Davis for Ma Rainey's Black Bottom
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Viola Davis for Ma Rainey's Black Bottom"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fma_raineys_black_bottom.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Meryl Streep for The Prom
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Meryl Streep for The Prom"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fprom_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mb-7 sm:mb-12"
+        >
+          <h2
+            class="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8"
+          >
+            best-supporting-actor
+          </h2>
+          <div
+            class="grid sm:grid-cols-2 mmd:grid-cols-3 gap-6"
+          >
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Daniel Kaluuya for Judas and the Black Messiah
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Daniel Kaluuya for Judas and the Black Messiah"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fjudas_and_the_black_messiah.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Leslie Odom, Jr. for One Night in Miami
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Leslie Odom, Jr. for One Night in Miami"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fone_night_in_miami.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Sacha Baron Cohen for The Trial of the Chicago 7
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Sacha Baron Cohen for The Trial of the Chicago 7"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftrial_of_the_chicago_seven.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Stanley Tucci for Supernova
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Stanley Tucci for Supernova"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fsupernova.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Chadwick Boseman for Da 5 Bloods
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Chadwick Boseman for Da 5 Bloods"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fda_five_bloods_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mb-7 sm:mb-12"
+        >
+          <h2
+            class="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8"
+          >
+            best-visual-effects
+          </h2>
+          <div
+            class="grid sm:grid-cols-2 mmd:grid-cols-3 gap-6"
+          >
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                The Midnight Sky
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="The Midnight Sky"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fmidnight_sky_ver2.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Tenet
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Tenet"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Ftenet_ver7.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Wonder Woman 1984
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Wonder Woman 1984"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwonder_woman_nineteen_eighty_four_ver18.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                The Invisible Man
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="The Invisible Man"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Finvisible_man.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+            <div
+              class="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105"
+            >
+              <h3
+                class="text-2xl font-bold mb-4 group-hover:text-white"
+              >
+                Mulan
+              </h3>
+              <div
+                class="px-5 mb-4"
+              >
+                <div
+                  style="display: block; overflow: hidden; position: relative; box-sizing: border-box; margin: 0px;"
+                >
+                  <div
+                    style="display: block; box-sizing: border-box; padding-top: 140%;"
+                  />
+                  <img
+                    alt="Mulan"
+                    data-nimg="responsive"
+                    decoding="async"
+                    sizes="100vw"
+                    src="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=3840&q=75"
+                    srcset="/_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fvariety.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fminari-1.jpg&w=3840&q=75 3840w"
+                    style="position: absolute; top: 0px; left: 0px; bottom: 0px; right: 0px; box-sizing: border-box; padding: 0px; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
+                  />
+                  <noscript />
+                </div>
+              </div>
+              <button
+                class="text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+              >
+                Select Nominee
+              </button>
+            </div>
+          </div>
+        </div>
+        <button
+          class="absolute bottom-5 right-0 text-white hover:text-black focus:text-black bg-nominee-selected-bg hover:bg-nominee-bg focus:bg-btn-focus-bg px-5 py-2 rounded transition-all"
+        >
+          Submit ballot
+        </button>
+      </div>
+    </main>
+  </div>
+</div>
+`;
