@@ -3,7 +3,7 @@ import { ToastContainer } from 'react-toastify'
 import '../styles/globals.css'
 import 'react-toastify/dist/ReactToastify.css'
 
-function MyApp({ Component, pageProps }: AppProps) {
+const MyApp: React.FC<AppProps> = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Component {...pageProps} />

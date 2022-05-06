@@ -21,11 +21,7 @@ const customStyles = {
   },
 }
 
-const SubmitModal: React.FC<Props> = ({
-  isOpen,
-  handleModalClose,
-  selectedNominees,
-}) => {
+function SubmitModal({ isOpen, handleModalClose, selectedNominees }: Props) {
   return (
     <Modal
       isOpen={isOpen}

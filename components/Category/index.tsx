@@ -8,7 +8,7 @@ interface Props {
   selecteItems: (categoryId: string, nominee: INominee) => void
 }
 
-const Category: React.FC<Props> = ({ categoryData, selecteItems }) => {
+function Category({ categoryData, selecteItems }: Props) {
   return (
     <div className="mb-7 sm:mb-12">
       <h2 className="capitalize text-2xl mmd:text-3xl font-semibold bg-hover-color p-2 mb-5 mmd:mb-8">

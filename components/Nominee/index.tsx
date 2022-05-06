@@ -8,7 +8,7 @@ interface Props {
   categoryId: string
 }
 
-const Nominee: React.FC<Props> = ({ nominee, selecteItems, categoryId }) => {
+function Nominee({ nominee, selecteItems, categoryId }: Props) {
   return (
     <div className="group text-center bg-nominee-bg hover:bg-nominee-hover-bg rounded-xl p-5 transition-all hover:shadow-card-hv-shadow hover:scale-105">
       <h3 className="text-2xl font-bold mb-4 group-hover:text-white">
