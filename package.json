@@ -7,10 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest --watchAll"
+    "test": "jest --watch"
   },
   "dependencies": {
-    "@types/jest": "^27.0.3",
     "axios": "^0.24.0",
     "next": "11.1.2",
     "react": "17.0.2",
@@ -24,6 +23,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.0",
     "@types/react": "17.0.30",
     "@typescript-eslint/eslint-plugin": "^5.5.0",
     "autoprefixer": "^10.4.0",
@@ -33,7 +33,7 @@
     "eslint-config-prettier": "^8.3.0",
     "husky": "^7.0.4",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^27.4.3",
+    "jest": "^28.0.3",
     "lint-staged": "^12.1.2",
     "postcss": "^8.4.4",
     "prettier": "^2.5.1",
